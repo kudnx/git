@@ -4,7 +4,12 @@ def divide(a, b):
 
 divide(10, 2)
 
-def soma(a, b)
+def soma(a, b):
     printf(f"{a} + {b} = {a + b}")
 
 soma(20, 20)
+
+def subtrai(a, b):
+    printf(f"{a} - {b} = {a - b}")
+
+subtrai(43, 1)
