@@ -13,3 +13,8 @@ def subtrai(a, b):
     printf(f"{a} - {b} = {a - b}")
 
 subtrai(43, 1)
+
+def multiplica(a, b):
+    printf(f"{a} * {b} = {a * b}")
+
+multiplica(20, 21) 
